@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/supunvirajitha/supunvirajitha/blob/main/Fullstack%20developer.png)>
+![MasterHead](https://github.com/supunvirajitha/supunvirajitha/blob/main/Fullstack%20developer.png)
   
 <h1 align="center">Hi 👋, I'm Supun virajitha !👨‍💻</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
