@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Supun virajitha</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
+- 🔭 I’m currently working on **Development Lotteries Boar**
+
 - 💬 Ask me about **MERN , SQL , Android**
 
 - 📫 How to reach me **supunvirajith21@gmail.com**
