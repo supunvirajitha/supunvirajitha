@@ -1,4 +1,4 @@
-<td width="50%" align="center"![MasterHead](https://github.com/supunvirajitha/supunvirajitha/blob/main/Fullstack%20developer.png)>
+<td width="500%" align="center"![MasterHead](https://github.com/supunvirajitha/supunvirajitha/blob/main/Fullstack%20developer.png)>
   </td>
 <h1 align="center">Hi 👋, I'm Supun virajitha</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
