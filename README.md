@@ -1,24 +1,4 @@
-<img src="https://github.com/supunvirajitha/supunvirajitha/blob/main/Fullstack%20developer.png" alt="MasterHead" style="display: block; margin-left: auto; margin-right: auto;">
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Center Image</title>
-    <style>
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Adjust the height as needed */
-        }
-    </style>
-</head>
-<body>
-    <div class="center">
-        <img src="https://github.com/supunvirajitha/supunvirajitha/blob/main/Fullstack%20developer.png" alt="MasterHead">
-    </div>
-</body>
-</html>
+
   
 <h1 align="center">Hi 👋, I'm Supun virajitha !👨‍💻</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
