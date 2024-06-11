@@ -37,11 +37,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunvirajitha&show_icons=true&locale=en&layout=compact" alt="supunvirajitha" />
 </td>
 
-<td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunvirajitha&show_icons=true&locale=en" alt="supunvirajitha" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supunvirajitha&" alt="supunvirajitha" />
-</td>
 
 
 
