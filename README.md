@@ -2,7 +2,7 @@
 ![Header](https://github.com/supunvirajitha/supunvirajitha/blob/main/github-header-image%20(4).png)
 <h1 align="center">Hi 👋, I'm Supun virajitha !👨‍💻</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-<img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"
+<img align="right" alt="Coding" width="350"src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunvirajitha&label=Profile%20views&color=0e75b6&style=flat" alt="supunvirajitha" /> </p>
