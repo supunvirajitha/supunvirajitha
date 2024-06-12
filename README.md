@@ -1,9 +1,13 @@
 
 ![Header](https://github.com/supunvirajitha/supunvirajitha/blob/main/github-header-image%20(4).png)
 <h1 align="center">Hi 👋, I'm Supun virajitha !👨‍💻</h1>
-<img align="right" alt="Coding" width="350"src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=5081&pause=1000&random=false&width=606&lines=Fullstack+developer)](https://git.io/typing-svg)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&random=false&width=435&lines=A+passionate+Fullstack+developer)](https://git.io/typing-svg)
+<img align="right" alt="Coding" width="350"src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunvirajitha&label=Profile%20views&color=0e75b6&style=flat" alt="supunvirajitha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/supun virajitha" target="blank"><img src="https://img.shields.io/twitter/follow/supun virajitha?logo=twitter&style=for-the-badge" alt="supun virajitha" /></a> </p>
