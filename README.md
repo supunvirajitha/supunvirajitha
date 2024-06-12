@@ -37,12 +37,6 @@
 <tr border="none">
 <td width="50%" align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunvirajitha&show_icons=true&locale=en&layout=compact" alt="supunvirajitha" />
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunvirajitha&show_icons=true&locale=en" alt="supunvirajitha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supunvirajitha&" alt="supunvirajitha" /></p>
-  
 </td>
 
 
