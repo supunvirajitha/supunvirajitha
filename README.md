@@ -1,6 +1,6 @@
 
 ![Header](https://github.com/supunvirajitha/supunvirajitha/blob/main/github-header-image%20(4).png)
-<h1 align="center">Hi... 👋, I'm Supun virajitha!👨‍💻</h1>
+<h1 align="center">Hi... 👋, I'm Supun virajitha!👨‍💻 </h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=5081&pause=1000&random=false&width=606&lines=Fullstack+developer)](https://git.io/typing-svg)
