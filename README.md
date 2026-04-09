@@ -14,8 +14,6 @@
 
 - 🎓 BSc(Hons) in IT Specializing in Software Enginnering
 
-- 🔭 I’m currently working on **Development Lotteries Board**
-
 - 🌱 I’m currently learning **codeigniter**
 
 - 💬 Ask me about **MERN , SQL , Android**
